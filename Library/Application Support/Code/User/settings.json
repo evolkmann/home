@@ -1,0 +1,27 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "files.autoSave": "onFocusChange",
+    "editor.mouseWheelZoom": true,
+    "java.configuration.checkProjectSettingsExclusions": false,
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "editor.minimap.enabled": false,
+    "atlascode.jira.workingSite": {
+        "baseUrlSuffix": "atlassian.net"
+    },
+    "yaml.schemas": {
+        "file:///Users/mac/.vscode/extensions/atlassian.atlascode-1.2.3/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+    },
+    "atlascode.bitbucket.pipelines.explorerEnabled": false,
+    "atlascode.jira.statusbar.enabled": false,
+    "atlascode.jira.explorer.enabled": false,
+    "merge-conflict.diffViewPosition": "Below",
+    "typescript.preferences.quoteStyle": "single",
+    "javascript.preferences.importModuleSpecifier": "non-relative",
+    "window.zoomLevel": 1,
+    "debug.node.autoAttach": "off",
+    "editor.renderWhitespace": "selection",
+    "html-css-class-completion.includeGlobPattern": "**/*.{scss,css,html}"
+}

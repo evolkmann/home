@@ -1,0 +1,17 @@
+Angular.ng-template
+atlassian.atlascode
+dawhite.mustache
+dbaeumer.vscode-eslint
+k--kato.intellij-idea-keybindings
+ms-azuretools.vscode-docker
+robinbentley.sass-indented
+salesforce.salesforcedx-vscode
+salesforce.salesforcedx-vscode-apex
+salesforce.salesforcedx-vscode-apex-debugger
+salesforce.salesforcedx-vscode-apex-replay-debugger
+salesforce.salesforcedx-vscode-core
+salesforce.salesforcedx-vscode-lightning
+salesforce.salesforcedx-vscode-lwc
+salesforce.salesforcedx-vscode-visualforce
+VisualStudioExptTeam.vscodeintellicode
+Zignd.html-css-class-completion

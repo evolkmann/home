@@ -1,5 +1,10 @@
 *
+!README.md
 !.gitignore
 !.gitignore_global
 !.zshrc
+!vs_code_extensions_list.txt
+!Library/Application\ Support/Code/User/snippets/*
+!Library/Application\ Support/Code/User/settings.json
+!Library/Application\ Support/Code/Users/keybindings.json
 
